@@ -1,0 +1,19 @@
+h1{
+  font-size: 100px;
+  font-family: "Lucida Handwriting", Cursive;
+  height:70vh;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div span{
+  display: inline-grid;
+  border :2px rgb(229, 179, 155) dotted;
+  border-radius: 15px;
+  height:150px;
+  width:200px;
+  margin-top:0.3vh;
+  margin-right: 30px;
+  text-align: center;
+}
